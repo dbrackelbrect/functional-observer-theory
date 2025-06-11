@@ -1,25 +1,63 @@
-# Functional Observer Theory: A Delta-Preserving Interpretation of Quantum Mechanics
+# Functional Observer Theory
 
-**Author**: David Brackelbrect  
-**Email**: d.brackelbrect@protonmail.com  
-**Date**: June 11, 2025
+**Author:** David Brackelbrect  
+**Date:** June 11, 2025  
+**Contact:** d.brackelbrect@protonmail.com
 
-This repository contains the formal release of a novel interpretive model in quantum mechanics. The theory rejects state collapse and branching, proposing instead that the observer executes a functional, delta-preserving operation which recontextualizes — but does not alter — the original quantum state.
-
-## Included Files
-
-- `functional_observer_theory.pdf` — Final paper (compiled)
-- `functional_observer_theory.tex` — LaTeX source
-- *(Optional)* `authorship.txt` — Plaintext authorship claim
-- *(Optional)* `authorship.txt.sig` — GPG signature of claim
-- *(Optional)* `brackelbrect-public.asc` — Public key for verification
+---
 
 ## Overview
 
-This framework proposes that time, interpretation, and observable interaction are emergent properties driven by the observer’s intent, not measurement. The delta function $\delta$ encodes the invariant identity of a quantum state across interpretive transformation.
+This repository contains the formal publication of a speculative framework in quantum foundations.
 
-## Contact
+**Functional Observer Theory (FOT)** proposes that quantum states do not collapse, branch, or probabilistically update. Instead, observation is modeled as a delta-preserving functional mapping applied by the observer — producing an interpretive state without altering the original.
 
-To discuss or cite this work pseudonymously, use the contact email above.
+Time emerges only through the observer's invocation of this function, not as an intrinsic property of the quantum substrate.
 
-> “Observation recontextualizes — it does not collapse.”
+---
+
+## Contents
+
+### `/paper/`
+- `functional_observer_theory.tex` — LaTeX source of the paper
+- `functional_observer_theory.pdf` — Compiled manuscript
+
+### `/proof/`
+- `authorship.txt` — Signed statement of authorship
+- `authorship.txt.sig` — GPG signature of the statement
+- `brackelbrect-public.asc` — Associated public key
+
+### `LICENSE.md`
+This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).  
+Attribution required. No derivatives permitted.
+
+---
+
+## Abstract
+
+This paper introduces a delta-preserving interpretive model of quantum mechanics in which the observer neither collapses nor branches the quantum state. Instead, the observer applies a functional operation that produces a derivative interpretive state from the original configuration, preserving its identity $\delta$.
+
+Temporal flow is emergent, initiated by observer invocation. Unused state paths remain latent but functionally accessible. No ontological transformation occurs — only recontextualization.
+
+---
+
+## Citation
+
+Brackelbrect, D. (2025). Functional Observer Theory: A Delta-Preserving Interpretation of Quantum Mechanics. GitHub. https://github.com/dbrackelbrect/functional-observer-theory
+
+---
+
+## Authorship
+
+All files are cryptographically signed by the author.  
+Verification instructions can be found in `/proof`.
+
+---
+
+## Seal
+
+David Brackelbrect
+Authored and signed, 2025
+
+Δ = 0
+t ∈ O
