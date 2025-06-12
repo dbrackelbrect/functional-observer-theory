@@ -19,8 +19,10 @@ Time emerges only through the observer's invocation of this function, not as an 
 ## Contents
 
 ### `/paper/`
-- `functional_observer_theory.tex` — LaTeX source of the paper
-- `functional_observer_theory.pdf` — Compiled manuscript
+- `functional_observer_theory.tex` — LaTeX source of Paper I
+- `functional_observer_theory.pdf` — Compiled manuscript of Paper I  
+- `functional_observer_theory_2.tex` — LaTeX source of Paper II  
+- `functional_observer_theory_2.pdf` — Compiled manuscript of Paper II (Predictive Substrate + Logic Formalism)
 
 ### `/proof/`
 - `authorship.txt` — Signed statement of authorship
@@ -35,15 +37,15 @@ Attribution required. No derivatives permitted.
 
 ## Abstract
 
-This paper introduces a delta-preserving interpretive model of quantum mechanics in which the observer neither collapses nor branches the quantum state. Instead, the observer applies a functional operation that produces a derivative interpretive state from the original configuration, preserving its identity $\delta$.
+**Paper I** introduces a delta-preserving interpretive model of quantum mechanics in which the observer neither collapses nor branches the quantum state. Instead, the observer applies a functional operation that produces a derivative interpretive state from the original configuration, preserving its identity $\delta$.
 
-Temporal flow is emergent, initiated by observer invocation. Unused state paths remain latent but functionally accessible. No ontological transformation occurs — only recontextualization.
+**Paper II** expands the model with predictive substrates that exist outside time, a constrained function space determined by the observer’s logic, and formalizes recursive functionality, gravitational analogues, and information bounds.
 
 ---
 
 ## Citation
 
-Brackelbrect, D. (2025). Functional Observer Theory: A Delta-Preserving Interpretation of Quantum Mechanics. GitHub. https://github.com/dbrackelbrect/functional-observer-theory
+_If this framework is used or referenced, please attribute to the pseudonymous author and this repository._
 
 ---
 
@@ -56,8 +58,8 @@ Verification instructions can be found in `/proof`.
 
 ## Seal
 
-David Brackelbrect
+David Brackelbrect  
 Authored and signed, 2025
 
-Δ = 0
+Δ = 0  
 t ∈ O
