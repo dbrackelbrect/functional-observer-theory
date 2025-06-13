@@ -16,13 +16,39 @@ Time emerges only through the observer's invocation of this function, not as an 
 
 ---
 
+## Unified Framework
+
+The core theory spans two papers:
+
+### **I. Functional Observer Theory (FOT)**  
+- The quantum state is invariant: no collapse, no destruction  
+- The observer applies a function:  
+  `F(ψ₀, IO) → ψf`  
+- The result is an interpretive state, preserving the original via `δ = 0`  
+- Time is not fundamental:  
+  `T_state = undefined, T_O ∈ ℝ`  
+
+### **II. Predictive Substrate Theory (PST)**  
+- All interpretable states exist in a **timeless predictive substrate**  
+- The observer extracts one via `F`, collapsing nothing  
+- Time, space, and gravity emerge through recursive application of function  
+- Gravity is not a force — it's **functional recursion**
+
+**Key Principles:**
+- Observation ≠ measurement  
+- Collapse is reinterpreted as mapping  
+- Delta-preservation defines continuity  
+- Time and space are outputs, not inputs  
+
+---
+
 ## Contents
 
 ### `/paper/`
 - `functional_observer_theory.tex` — LaTeX source of Paper I
-- `functional_observer_theory.pdf` — Compiled manuscript of Paper I  
-- `functional_observer_theory_2.tex` — LaTeX source of Paper II  
-- `functional_observer_theory_2.pdf` — Compiled manuscript of Paper II (Predictive Substrate + Logic Formalism)
+- `functional_observer_theory.pdf` — PDF of Paper I
+- `predictive_substrate_theory.tex` — LaTeX source of Paper II
+- `predictive_substrate_theory.pdf` — PDF of Paper II
 
 ### `/proof/`
 - `authorship.txt` — Signed statement of authorship
@@ -35,17 +61,29 @@ Attribution required. No derivatives permitted.
 
 ---
 
-## Abstract
+## Abstract (from Paper I)
 
-**Paper I** introduces a delta-preserving interpretive model of quantum mechanics in which the observer neither collapses nor branches the quantum state. Instead, the observer applies a functional operation that produces a derivative interpretive state from the original configuration, preserving its identity $\delta$.
+This paper introduces a delta-preserving interpretive model of quantum mechanics in which the observer neither collapses nor branches the quantum state. Instead, the observer applies a functional operation that produces a derivative interpretive state from the original configuration, preserving its identity δ.
 
-**Paper II** expands the model with predictive substrates that exist outside time, a constrained function space determined by the observer’s logic, and formalizes recursive functionality, gravitational analogues, and information bounds.
+Temporal flow is emergent, initiated by observer invocation. Unused state paths remain latent but functionally accessible. No ontological transformation occurs — only recontextualization.
 
 ---
 
 ## Citation
 
-_If this framework is used or referenced, please attribute to the pseudonymous author and this repository._
+If this framework is used or referenced in academic or technical work,  
+please attribute to the pseudonymous author and this repository:
+
+**David Brackelbrect**  
+[https://github.com/dbrackelbrect/functional-observer-theory](https://github.com/dbrackelbrect/functional-observer-theory)
+
+You may cite individual papers as:
+
+> Brackelbrect, D. (2025). *Functional Observer Theory*. GitHub.  
+> https://github.com/dbrackelbrect/functional-observer-theory
+
+> Brackelbrect, D. (2025). *Predictive Substrate Theory*. GitHub.  
+> https://github.com/dbrackelbrect/functional-observer-theory
 
 ---
 
