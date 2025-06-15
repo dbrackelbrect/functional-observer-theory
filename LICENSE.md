@@ -2,7 +2,7 @@
 
 This work — Functional Observer Theory (Papers I–V and FINAL) — is released under the MIT License.
 
-You are free to::
+You are free to:
 
 - Use
 - Modify
